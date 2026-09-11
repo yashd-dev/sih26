@@ -1,0 +1,344 @@
+[
+  {
+    "url": "https://uidai.gov.in/assets/svgs/screen-reader.svg",
+    "fileName": "01-screen-reader.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/01-screen-reader.svg",
+    "bytes": 901
+  },
+  {
+    "url": "https://uidai.gov.in/assets/logo/logoWithTitle.svg",
+    "fileName": "02-logoWithTitle.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/02-logoWithTitle.svg",
+    "bytes": 68198
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/icons/hamburgerMenu.svg",
+    "fileName": "03-hamburgerMenu.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/03-hamburgerMenu.svg",
+    "bytes": 1204
+  },
+  {
+    "url": "https://uidai.gov.in/Vector.svg",
+    "fileName": "04-Vector.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/04-Vector.svg",
+    "bytes": 3083
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-06/Icon.svg",
+    "fileName": "05-Icon.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/05-Icon.svg",
+    "bytes": 249
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/Icon.svg",
+    "fileName": "06-Icon.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/06-Icon.svg",
+    "bytes": 2039
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/Frame.svg",
+    "fileName": "07-Frame.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/07-Frame.svg",
+    "bytes": 516
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/build_with_us.svg",
+    "fileName": "08-build_with_us.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/08-build_with_us.svg",
+    "bytes": 1860
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-05/media.svg",
+    "fileName": "09-media.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/09-media.svg",
+    "bytes": 1227
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/documents_0.svg",
+    "fileName": "10-documents_0.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/10-documents_0.svg",
+    "bytes": 875
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/help.svg",
+    "fileName": "11-help.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/11-help.svg",
+    "bytes": 1069
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/document/2026-06/OVSE-Web-Banner-Desktop.webp",
+    "fileName": "12-OVSE-Web-Banner-Desktop.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/12-OVSE-Web-Banner-Desktop.webp",
+    "bytes": 58984
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/document/2026-07/SITAA_Banner_desktop_0.webp",
+    "fileName": "13-SITAA_Banner_desktop_0.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/13-SITAA_Banner_desktop_0.webp",
+    "bytes": 66006
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/document/2026-09/Playbook-Desktop.webp",
+    "fileName": "14-Playbook-Desktop.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/14-Playbook-Desktop.webp",
+    "bytes": 61430
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/document/2026-06/banner-1_0.webp",
+    "fileName": "15-banner-1_0.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/15-banner-1_0.webp",
+    "bytes": 136912
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/document/2026-06/My-aadhaar-new-look-desktop.webp",
+    "fileName": "16-My-aadhaar-new-look-desktop.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/16-My-aadhaar-new-look-desktop.webp",
+    "bytes": 140166
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/document/2026-06/MBU-Web-Banner-Desktop.webp",
+    "fileName": "17-MBU-Web-Banner-Desktop.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/17-MBU-Web-Banner-Desktop.webp",
+    "bytes": 28504
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/document/2026-06/Aadhaar-mobile_2.webp",
+    "fileName": "18-Aadhaar-mobile_2.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/18-Aadhaar-mobile_2.webp",
+    "bytes": 11566
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/backgroundServiceTop.webp",
+    "fileName": "19-backgroundServiceTop.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/19-backgroundServiceTop.webp",
+    "bytes": 189408
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/backgroundServiceBottom.webp",
+    "fileName": "20-backgroundServiceBottom.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/20-backgroundServiceBottom.webp",
+    "bytes": 250916
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/icons/ArrowLeftBlue.svg",
+    "fileName": "21-ArrowLeftBlue.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/21-ArrowLeftBlue.svg",
+    "bytes": 927
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/download_aadhaar.svg",
+    "fileName": "22-download_aadhaar.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/22-download_aadhaar.svg",
+    "bytes": 5607
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/icons/RoundArrow.svg",
+    "fileName": "23-RoundArrow.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/23-RoundArrow.svg",
+    "bytes": 1035
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/Vector_1.svg",
+    "fileName": "24-Vector_1.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/24-Vector_1.svg",
+    "bytes": 3359
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/biometrics.svg",
+    "fileName": "25-biometrics.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/25-biometrics.svg",
+    "bytes": 6270
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/check_update_status.svg",
+    "fileName": "26-check_update_status.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/26-check_update_status.svg",
+    "bytes": 3132
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/phone.svg",
+    "fileName": "27-phone.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/27-phone.svg",
+    "bytes": 2083
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/barcode.webp",
+    "fileName": "28-barcode.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/28-barcode.webp",
+    "bytes": 4842
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/appstore_logo_0.webp",
+    "fileName": "29-appstore_logo_0.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/29-appstore_logo_0.webp",
+    "bytes": 9342
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/googleplay_logo_0.webp",
+    "fileName": "30-googleplay_logo_0.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/30-googleplay_logo_0.webp",
+    "bytes": 9430
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-05/About-UIDAI.webp",
+    "fileName": "31-About-UIDAI.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/31-About-UIDAI.webp",
+    "bytes": 67096
+  },
+  {
+    "url": "https://uidai.gov.in/assets/dashboard/image.webp",
+    "fileName": "32-image.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/32-image.webp",
+    "bytes": 24456
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/serviceBackground.png",
+    "fileName": "33-serviceBackground.png",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/33-serviceBackground.png",
+    "bytes": 106836
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/serviceGradient.png",
+    "fileName": "34-serviceGradient.png",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/34-serviceGradient.png",
+    "bytes": 18837
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/security.svg",
+    "fileName": "35-security.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/35-security.svg",
+    "bytes": 2185
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/security_0.svg",
+    "fileName": "36-security_0.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/36-security_0.svg",
+    "bytes": 2185
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/code.svg",
+    "fileName": "37-code.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/37-code.svg",
+    "bytes": 422
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-06/03_How_to_register_on_Aadhaar_App_%26_login_0.webp",
+    "fileName": "38-03_How_to_register_on_Aadhaar_App_-26_login_0.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/38-03_How_to_register_on_Aadhaar_App_-26_login_0.webp",
+    "bytes": 39556
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/PlayButton.svg",
+    "fileName": "39-PlayButton.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/39-PlayButton.svg",
+    "bytes": 731
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-06/02_OVSE_use_cases_video_0.webp",
+    "fileName": "40-02_OVSE_use_cases_video_0.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/40-02_OVSE_use_cases_video_0.webp",
+    "bytes": 50332
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-06/01_Aadhaar_App_Launch_Video_0.webp",
+    "fileName": "41-01_Aadhaar_App_Launch_Video_0.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/41-01_Aadhaar_App_Launch_Video_0.webp",
+    "bytes": 20792
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/footer.svg",
+    "fileName": "42-footer.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/42-footer.svg",
+    "bytes": 743326
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/logoWithTitle.svg",
+    "fileName": "43-logoWithTitle.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/43-logoWithTitle.svg",
+    "bytes": 68197
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/facebook_0.svg",
+    "fileName": "44-facebook_0.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/44-facebook_0.svg",
+    "bytes": 1559
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/youtube.svg",
+    "fileName": "45-youtube.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/45-youtube.svg",
+    "bytes": 799
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/instagram.svg",
+    "fileName": "46-instagram.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/46-instagram.svg",
+    "bytes": 2164
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/linkedin.svg",
+    "fileName": "47-linkedin.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/47-linkedin.svg",
+    "bytes": 1327
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/twitter_0.svg",
+    "fileName": "48-twitter_0.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/48-twitter_0.svg",
+    "bytes": 565
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/link.svg",
+    "fileName": "49-link.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/49-link.svg",
+    "bytes": 832
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-05/Vector-tele.svg",
+    "fileName": "50-Vector-tele.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/50-Vector-tele.svg",
+    "bytes": 1896
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-05/Vector-email.svg",
+    "fileName": "51-Vector-email.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/51-Vector-email.svg",
+    "bytes": 849
+  },
+  {
+    "url": "https://uidai.gov.in/chatbot-logo.webp",
+    "fileName": "52-chatbot-logo.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/52-chatbot-logo.webp",
+    "bytes": 58132
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/document/2026-06/desktop-aadhaar.webp",
+    "fileName": "53-desktop-aadhaar.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/53-desktop-aadhaar.webp",
+    "bytes": 1663480
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/work_at_uidai_bg.webp",
+    "fileName": "54-work_at_uidai_bg.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/54-work_at_uidai_bg.webp",
+    "bytes": 32506
+  },
+  {
+    "url": "https://backend.uidai.gov.in/get/files/media/2026-04/come_build_with_us_bg.webp",
+    "fileName": "55-come_build_with_us_bg.webp",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/55-come_build_with_us_bg.webp",
+    "bytes": 17340
+  },
+  {
+    "url": "https://uidai.gov.in/assets/svgs/footerbackground.svg",
+    "fileName": "56-footerbackground.svg",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/56-footerbackground.svg",
+    "bytes": 160896
+  },
+  {
+    "url": "https://uidai.gov.in/favicon.ico",
+    "fileName": "57-favicon.ico",
+    "publicPath": "/sites/uidai-gov-in-7db8752c/en-7a4ba3ba/57-favicon.ico",
+    "bytes": 3098
+  }
+]
